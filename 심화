@@ -1,0 +1,191 @@
+<div style="width: 210mm; min-height: 297mm; margin: 0 auto 20px auto; background-color: #ffffff; padding: 25mm 20mm; position: relative; border: 1px solid #ddd; box-shadow: 0 4px 8px rgba(0,0,0,0.1); box-sizing: border-box; font-family: 'Malgun Gothic', sans-serif; color: #000; overflow: hidden;">
+    <!-- 머리말 -->
+    <div style="position: absolute; top: 10mm; left: 20mm; font-size: 8pt; color: #333;">2026_심화화학I</div>
+    
+    <!-- 1페이지 붉은색 워터마크 -->
+    <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%) rotate(-35deg); font-size: 90pt; font-weight: 900; color: rgba(255, 0, 0, 0.12); white-space: nowrap; pointer-events: none; z-index: 0;">
+        TOP SECRET
+    </div>
+
+    <!-- 콘텐츠 영역 -->
+    <div style="position: relative; z-index: 1; font-size: 11pt; line-height: 1.6;">
+        
+        <!-- 학생 정보 작성란 -->
+        <div style="text-align: right; margin-bottom: 30px; font-size: 11pt; font-weight: bold;">
+            <span style="display: inline-block; border-bottom: 1px solid #000; width: 150px; text-align: left; padding-left: 5px;">학번:</span>
+            <span style="display: inline-block; border-bottom: 1px solid #000; width: 150px; text-align: left; padding-left: 5px; margin-left: 15px;">이름:</span>
+        </div>
+
+        <!-- 프롤로그 -->
+        <div style="font-size: 13pt; font-weight: bold; text-align: center; border: 2px solid #000; background-color: #f9f9f9; padding: 12px; margin-bottom: 25px;">
+            사건명: 프로젝트 '키메라' - 신소재 유출 사건 [프롤로그: 사건의 발생]
+        </div>
+        <p>2026년 3월 3일 새벽 2시 15분. 대한민국 최고의 보안을 자랑하는 'K-화학 연구소'의 최심부, 제7실험실(Genesis Lab)의 정적을 깨고 경보음이 울려 퍼졌다. 이곳은 상온 초전도체를 구현하기 위한 국가 기밀 프로젝트, ‘키메라(CHIMERA)’의 연구 데이터가 보관된 곳이다. 보안 요원들이 현장에 도착했을 때, 데이터 서버는 이미 포맷된 상태였고, 시제품인 ‘키메라 결정’은 사라진 뒤였다. 현장에는 범인이 서두르다 남긴 몇 가지 기묘한 흔적만이 남아 있었다. 경찰은 내부 사정을 잘 아는 수석 연구원 3명을 용의자로 지목했다. 여러분은 이제부터 화학 특수 수사대(CSI) 가 되어, 남겨진 '화학적 지문'을 분석해 범인을 검거해야 한다.</p>
+
+        <!-- 현장 증거 기록 -->
+        <div style="font-size: 13pt; font-weight: bold; background-color: #333; color: #fff; padding: 8px 12px; margin-top: 35px; border-radius: 5px;">
+            [현장 증거 기록: 3개의 화학적 지문]
+        </div>
+
+        <div style="margin-top: 20px;">
+            <div style="font-size: 13pt; font-weight: bold; color: #b22222; border-bottom: 1px dashed #b22222; padding-bottom: 5px; margin-bottom: 10px;">증거 1. 금고문의 긁힌 자국 (Evidence A)</div>
+            <p>금고는 특수 티타늄 합금으로 만들어졌으나, 범인이 금고를 열기 위해 사용한 특수 절단기 끝에서 미세한 금속 파편이 떨어졌다.</p>
+            <div style="background-color: #f4f4f4; border-left: 4px solid #555; padding: 12px; margin-top: 10px; font-style: italic;">
+                <strong>수사팀의 메모:</strong> "이 결정 구조는 매우 조밀하다. 면심 입방 구조(FCC)를 가진 것 으로 보아, 전도성이 매우 높은 귀금속 계열인 것 같다. 밀도를 측정해 원자량을 찾아내면 이 도구가 어느 실험실 소유인지 알 수 있을 것이다."
+            </div>
+        </div>
+
+        <div style="margin-top: 25px;">
+            <div style="font-size: 13pt; font-weight: bold; color: #b22222; border-bottom: 1px dashed #b22222; padding-bottom: 5px; margin-bottom: 10px;">증거 2. 레이저 보안 센서의 부식 (Evidence B)</div>
+            <p>첨단 레이저 보안 시스템이 무력화되었다. 센서 표면에는 무색의 기체가 살포된 흔적이 있 는데, 이 기체는 강력한 산화력을 가진 비활성 기체 화합물로 추정된다.</p>
+            <div style="background-color: #f4f4f4; border-left: 4px solid #555; padding: 12px; margin-top: 10px; font-style: italic;">
+                <strong>수사팀의 메모:</strong> "센서 주위에 남아있는 기체의 쌍극자 모멘트가 0이다. 하지만 중 심 원자의 비공유 전자쌍이 2개라는 분석 결과가 나왔다. 이 기하 구조를 가진 기 체는 특정 공정에서만 쓰이는 특수 가스다!"
+            </div>
+        </div>
+
+        <div style="margin-top: 25px;">
+            <div style="font-size: 13pt; font-weight: bold; color: #b22222; border-bottom: 1px dashed #b22222; padding-bottom: 5px; margin-bottom: 10px;">증거 3. 화이트보드의 낙서 (Evidence C)</div>
+            <p>범인은 대범하게도 연구실 화이트보드 구석에 의미심장한 메모를 남겼다."완벽한 대칭성()은 촉매의 핵심이지. 하지만 너희는 그걸 놓쳤어."</p>
+            <div style="background-color: #f4f4f4; border-left: 4px solid #555; padding: 12px; margin-top: 10px; font-style: italic;">
+                <strong>수사팀의 메모:</strong> "범인은 대칭성에 집착하는 인물이다. 이 대칭 요소( , )를 가 진 분자를 연구하는 사람이 범인일 가능성이 높다. 용의자들의 논문을 대조해봐야 한다."
+            </div>
+        </div>
+
+        <!-- 용의자 프로필 -->
+        <div style="font-size: 13pt; font-weight: bold; background-color: #333; color: #fff; padding: 8px 12px; margin-top: 35px; border-radius: 5px;">
+            [용의자 프로필: 누가 배신자인가?]
+        </div>
+        <ul style="list-style-type: none; padding-left: 0; margin-top: 15px;">
+            <li style="margin-bottom: 15px; border: 1px solid #ddd; padding: 10px; border-radius: 4px;">
+                <strong>1. Dr. 큐리 (결정학 전문가):</strong> "이론보다는 실제가 중요하죠."<br>
+                금(Au) 박막을 이용한 나노 센서 제작의 권위자. 그녀의 실험실에는 고순 도 금속 결정들이 넘쳐난다.
+            </li>
+            <li style="margin-bottom: 15px; border: 1px solid #ddd; padding: 10px; border-radius: 4px;">
+                <strong>Dr. 파울리 (이론 화학자):</strong> "분자의 모양이 곧 모든 것을 결정합니다."<br>
+                전자 배치와 분자 궤도 함수를 이용해 신물질을 설계한다. 최근 비활성 기 체를 강제로 반응시키는 위험한 실험에 몰두해왔다.
+            </li>
+            <li style="margin-bottom: 15px; border: 1px solid #ddd; padding: 10px; border-radius: 4px;">
+                <strong>Dr. 깁스 (공정 공학자):</strong> "효율이 없는 화학은 쓰레기입니다."<br>
+                암모니아(NH) 합성 및 고효율 촉매 공정의 대가. 대칭성이 촉매 활성에 미치는 영향에 대해 매일같이 열변을 토한다.
+            </li>
+        </ul>
+    </div>
+
+    <!-- 꼬리말 -->
+    <div style="position: absolute; bottom: 10mm; right: 20mm; font-size: 8pt; color: #333;">SK.T</div>
+</div>
+
+<div style="width: 210mm; min-height: 297mm; margin: 0 auto; background-color: #ffffff; padding: 25mm 20mm; position: relative; border: 1px solid #ddd; box-shadow: 0 4px 8px rgba(0,0,0,0.1); box-sizing: border-box; font-family: 'Malgun Gothic', sans-serif; color: #000; overflow: hidden;">
+    <!-- 머리말 -->
+    <div style="position: absolute; top: 10mm; left: 20mm; font-size: 8pt; color: #333;">2026_심화화학I</div>
+
+    <!-- 콘텐츠 영역 -->
+    <div style="position: relative; z-index: 1; font-size: 11pt; line-height: 1.6;">
+
+        <div style="font-size: 13pt; font-weight: bold; text-align: center; border-top: 3px solid #000; border-bottom: 3px solid #000; padding: 15px 0; margin-bottom: 30px; letter-spacing: 2px;">
+            프로젝트 ‘키메라’ 수사 보고서
+        </div>
+
+        <div style="font-size: 13pt; font-weight: bold; margin-bottom: 10px; color: #111;">■ 사건 개요</div>
+        <p style="margin-bottom: 25px; padding: 10px; border: 1px solid #ccc; background-color: #fafafa;">
+            2026년 3월 3일 새벽, K-화학 연구소에서 상온 초전도체 시제품이 도난당했습니다. 현장 에 남겨진 3가지 화학적 증거를 분석하여 진범을 찾으십시오.
+        </p>
+
+        <div style="font-size: 13pt; font-weight: bold; margin-bottom: 10px; color: #111;">■ 증거 분석 (Evidence Analysis)</div>
+        
+        <!-- 증거 A 과제 -->
+        <div style="border: 1px solid #000; padding: 15px; margin-bottom: 20px;">
+            <div style="font-size: 11pt; font-weight: bold; color: #000; margin-bottom: 10px;">[증거 A] 금고에서 발견된 금속 파편(고체 화학)</div>
+            <p>범인이 유물을 절단할 때 떨어진 미세한 결정 파편을 X선 회절 분석(XRD)한 결과입니다.</p>
+            <ul style="margin-top: 10px; margin-bottom: 15px;">
+                <li>결정 구조: 면심 입방 구조 (FCC, Face-Centered Cubic)</li>
+                <li>단위 세포 모서리 길이(): ×  cm</li>
+                <li>밀도():  gcm</li>
+                <li>분석 과제: 아래 식을 이용해 이 금속의 원자량(M)을 계산하고, 금속의 정체를 밝히시오.<br>
+                  ×× (단, Z는 단위 세포 당 원자 수,   × )</li>
+            </ul>
+            <div style="background-color: #eee; padding: 10px; font-weight: bold;">
+                ▶ 판정 결과: 원자량 ( <span style="display: inline-block; width: 80px; border-bottom: 1px solid #000;"></span> ) / 금속 이름 ( <span style="display: inline-block; width: 100px; border-bottom: 1px solid #000;"></span> )
+            </div>
+        </div>
+
+        <!-- 증거 B 과제 -->
+        <div style="border: 1px solid #000; padding: 15px; margin-bottom: 20px;">
+            <div style="font-size: 11pt; font-weight: bold; color: #000; margin-bottom: 10px;">[증거 B] 보안 센서 잔류 가스(분자 구조 및 VSEPR)</div>
+            <p>보안 시스템을 무력화하는 데 사용된 것은 XY 형태의 가스입니다. 분석 데이터: 중심 원자 X는 5주기 원소이며, 분자의 쌍극자 모멘트는 0이다. 입체수(SN) 분석: 중심 원자의 비공유 전자쌍은 2개이다. 분석 과제: VSEPR 이론에 따른 분자의 기하학적 구조 명칭과 결합각을 쓰시오.</p>
+            <div style="background-color: #eee; padding: 10px; font-weight: bold; margin-top: 15px;">
+                ▶ 분석 결과: 기하 구조명 ( <span style="display: inline-block; width: 120px; border-bottom: 1px solid #000;"></span> ), 결합각 ( <span style="display: inline-block; width: 80px; border-bottom: 1px solid #000;"></span> )
+            </div>
+        </div>
+
+        <!-- 증거 C 과제 -->
+        <div style="border: 1px solid #000; padding: 15px; margin-bottom: 20px;">
+            <div style="font-size: 11pt; font-weight: bold; color: #000; margin-bottom: 10px;">[증거 C] 화이트보드 낙서(군론)</div>
+            <p>범인이 남긴 메시지: "완벽한 대칭성()은 촉매의 핵심이지."</p>
+            <p>수사 과제: 아래 분자 중 축과 3개의 면을 가진 분자를 고르시오.<br>
+            ① BH ② NH ③ CH ④ XeF</p>
+            <div style="background-color: #eee; padding: 10px; font-weight: bold; margin-top: 15px;">
+                ▶ 분석 결과: 해당 분자는 ( <span style="display: inline-block; width: 100px; border-bottom: 1px solid #000;"></span> )이다.
+            </div>
+        </div>
+
+        <!-- 최종 수사 결론 -->
+        <div style="font-size: 13pt; font-weight: bold; margin-top: 30px; margin-bottom: 10px; color: #111;">■ 최종 수사 결론</div>
+        <div style="border: 2px solid #000; padding: 20px; background-color: #fffaf0;">
+            <p style="font-weight: bold; margin-bottom: 15px;">본 수사팀은 범인을 [ <span style="display: inline-block; width: 150px; border-bottom: 2px solid #000;"></span> ]로 지목함.</p>
+            <p style="margin-bottom: 10px;">지목 근거: (증거 A, B, C와 용의자 프로필을 연관 지어 논리적으로 서술하시오.)</p>
+            <div style="border-bottom: 1px solid #999; height: 35px; width: 100%;"></div>
+            <div style="border-bottom: 1px solid #999; height: 35px; width: 100%;"></div>
+            <div style="border-bottom: 1px solid #999; height: 35px; width: 100%;"></div>
+            <div style="border-bottom: 1px solid #999; height: 35px; width: 100%;"></div>
+        </div>
+
+        <!-- Data Book -->
+        <div style="font-size: 13pt; font-weight: bold; margin-top: 40px; margin-bottom: 15px; border-left: 5px solid #000; padding-left: 10px;">
+            [수사 참고 자료집] (Data Book)
+        </div>
+        
+        <div style="font-size: 10pt; line-height: 1.5; border: 1px solid #ddd; padding: 15px; background-color: #fcfcfc;">
+            <p><strong>1. 고체 결정 구조 데이터</strong><br>
+            단위 세포 내 원자 수(Z): 단순 입방(1), 체심 입방(2), 면심 입방(4)<br>
+            원자량 참고: Al(27), Fe(56), Cu(64), Ag(108), Pt(195), Au(197)</p>
+            
+            <p><strong>2. VSEPR 및 분자 구조</strong><br>
+            입체수(SN) = (중심 원자의 결합 원자 수) + (비공유 전자쌍 수)</p>
+
+            <p><strong>3. 대칭 요소 (Symmetry Elements)</strong><br>
+            대칭축(): 분자를  회전 시 이전과 동일한 구조가 되는 축.<br>
+            대칭면(): 분자를 정확히 반으로 나누는 거울면. - : 주대칭축을 포함하는 수직 대칭면. - : 주대칭축에 수직인 수평 대칭면.<br>
+            참고: NH 수직 대칭면()만 있고, BH는 수평 대칭면()도 가짐.<br>
+            반전 중심(): 임의의 점 (x, y, z)에 대해 (-x, -y, -z) 지점에 동일한 원자가 있는 점. (XeF는 존재, NH는 없음)</p>
+
+            <p><strong>4. 용의자 프로필</strong><br>
+            Dr. 큐리: 금(Au) 나노 입자 및 FCC 박막 연구 전문가.<br>
+            Dr. 파울리: 비활성 기체($Xe$) 화합물의 전자 구조 및 결합 이론 전공.<br>
+            Dr. 깁스: 암모니아($NH_3$) 합성용 $C_{3v}$ 대칭 촉매 설계 권위자.</p>
+
+            <table style="width: 100%; border-collapse: collapse; margin-top: 15px; text-align: center; border: 1px solid #333;" border="1">
+                <tr style="background-color: #e6e6e6; font-weight: bold;">
+                    <td style="padding: 6px;">입체수(SN)</td>
+                    <td style="padding: 6px;">공유 전자쌍</td>
+                    <td style="padding: 6px;">비공유 전자쌍</td>
+                    <td style="padding: 6px;">기하구조</td>
+                    <td style="padding: 6px;">예시</td>
+                </tr>
+                <tr>
+                    <td style="padding: 6px;">4</td><td style="padding: 6px;">4</td><td style="padding: 6px;">0</td><td style="padding: 6px;">정사면체</td><td style="padding: 6px;">CH</td>
+                </tr>
+                <tr>
+                    <td style="padding: 6px;">4</td><td style="padding: 6px;">3</td><td style="padding: 6px;">1</td><td style="padding: 6px;">삼각뿔</td><td style="padding: 6px;">NH</td>
+                </tr>
+                <tr>
+                    <td style="padding: 6px;">6</td><td style="padding: 6px;">4</td><td style="padding: 6px;">2</td><td style="padding: 6px;">평면 사각형</td><td style="padding: 6px;">XeF</td>
+                </tr>
+            </table>
+            <div style="text-align: right; font-size: 9pt; margin-top: 5px; color: #555;"></div>
+        </div>
+    </div>
+
+    <!-- 꼬리말 -->
+    <div style="position: absolute; bottom: 10mm; right: 20mm; font-size: 8pt; color: #333;">SK.T</div>
+</div>
